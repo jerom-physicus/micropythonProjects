@@ -142,4 +142,4 @@ while True:
             lcd_display(code)
             print(code)
         
-#new commit is added to my
+#new commit is added to my repo
